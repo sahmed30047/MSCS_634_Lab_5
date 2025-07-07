@@ -1,0 +1,4 @@
+Name: Shaffan Ahmed, Student ID: 005030047
+
+
+The Wine dataset from Sklearn consists of 178 samples with 13 chemical features and three classes, is used in this lab to group wine samples and compare clustering methods using Hierarchical and DBSCAN clustering. The procedure includes loading the dataset, running DBSCAN with various eps and min_samples parameters, running Hierarchical Clustering with different cluster numbers, and assessing the outcomes using Silhouette, Homogeneity, and Completeness Scores. Interpretation is aided by visualizations such as dendrograms and scatter plots (using PCA). Though computationally demanding, the lab demonstrates Hierarchical Clustering's prowess in displaying hierarchical relationships, whereas DBSCAN's superior noise handling capabilities necessitate meticulous parameter tuning, offering important insights into their trade-offs and performance.
